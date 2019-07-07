@@ -3,4 +3,8 @@
 		margin: 0 auto;
 		padding: none;
 	}
+	<h1>{
+		color: blue;
+		font-size: 50pt;
+	}
 </style>
